@@ -1,0 +1,13 @@
+Enter the number of emplyoees
+4
+Enter number of goodies
+6
+mac 7980
+alexa 999
+ipods 11101
+micro 9800
+scale 2195
+cam 2799
+
+
+

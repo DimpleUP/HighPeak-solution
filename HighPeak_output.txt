@@ -1,0 +1,14 @@
+alexa:999
+scale:2195
+cam:2799
+mac:7980
+micro:9800
+ipods:11101
+698176058302Here the goodies that are selected for distribution are:
+alexa : 999
+scale : 2195
+cam : 2799
+mac : 7980
+micro : 9800
+ipods : 11101
+And the difference between the chosen goodie with highest price and the lowest price is 6981
